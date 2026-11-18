@@ -6,15 +6,15 @@
 
 ## 7 repositories
 
-1. [YOLO Instance Segmentation](https://github.com/folklazy/YOLO-Instance-Segmentation) — curated research, benchmarks, selected model. **Planned**
-2. [Human Parsing](https://github.com/folklazy/Human-Parsing) — parsing models, taxonomy, comparative evaluation. **Planned**
-3. [Clothing Color Extraction](https://github.com/folklazy/Clothing-Color-Extraction) — color methods and evaluation. **Planned**
-4. [CCTV Ground Truth Dataset](https://github.com/folklazy/CCTV-Ground-Truth-Dataset) — annotation policy, QA and metadata; raw company data private. **Planned**
-5. [Web Application + API + Database](https://github.com/folklazy/Human-Body-Extraction-Web-Platform) — web, API, persistence, deployment. **Planned**
+1. [YOLO Instance Segmentation](https://github.com/folklazy/YOLO-Instance-Segmentation) — curated research, benchmarks, selected model. **Created — curation pending**
+2. [Human Parsing](https://github.com/folklazy/Human-Parsing) — parsing models, taxonomy, comparative evaluation. **Created — curation pending**
+3. [Clothing Color Extraction](https://github.com/folklazy/Clothing-Color-Extraction) — color methods and evaluation. **Created — curation pending**
+4. [CCTV Ground Truth Dataset](https://github.com/folklazy/CCTV-Ground-Truth-Dataset) — annotation policy, QA and metadata; raw company data private. **Created — curation pending**
+5. [Web Application + API + Database](https://github.com/folklazy/Human-Body-Extraction-Web-Platform) — web, API, persistence, deployment. **Created — curation pending**
 6. **This repository** — project registry, cross-component decisions, status and handoffs.
 7. [A Comparative Study of YOLO-Based Instance Segmentation](https://github.com/folklazy/A-Comparative-Study-of-YOLO-Based-Instance-Segmentation) — final integrated, version-pinned end-to-end product and delivery documentation. **Packaging in progress**
 
-**Existing experimental repositories stay intact.** They are historical sources of truth; do not bulk-copy or rewrite their canonical metrics. See [REPOSITORY_REGISTRY.md](REPOSITORY_REGISTRY.md).
+**Five clean workstream repositories were created on 2026-11-19. Their current content is onboarding/documentation scaffolding; verified code/data migration is still pending.\n\nExisting experimental repositories stay intact.** They are historical sources of truth; do not bulk-copy or rewrite their canonical metrics. See [REPOSITORY_REGISTRY.md](REPOSITORY_REGISTRY.md).
 
 ## What the system does
 
