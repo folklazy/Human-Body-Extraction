@@ -29,6 +29,7 @@ Scope excludes person identity verification and cross-camera identity tracking.
 - [Architecture](docs/ARCHITECTURE.md) — integration contracts and evidence
 - [Decisions](docs/DECISIONS.md) — agreed repo split and protection policy
 - [Handoff standard](docs/HANDOFF_STANDARD.md) — how Codex agents should work
+- [Delivery migration plan](docs/DELIVERY_MIGRATION_PLAN.md) — audited source selection and final release stages
 - [AGENTS.md](AGENTS.md) — non-negotiable instructions
 
 ## Safety
