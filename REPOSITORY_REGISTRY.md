@@ -8,7 +8,7 @@
 | 2. Parsing | [Human-Parsing](https://github.com/folklazy/Human-Parsing) | **Public; created; curation pending** | [Human_Parsing_Study](https://github.com/folklazy/Human_Parsing_Study), [CCTV600 benchmark](https://github.com/folklazy/Human_Parsing_CCTV600_Benchmark) |
 | 3. Color | [Clothing-Color-Extraction](https://github.com/folklazy/Clothing-Color-Extraction) | **Public; created; curation pending** | [Garment-Color-Extractor](https://github.com/folklazy/Garment-Color-Extractor) |
 | 4. CCTV GT | [CCTV-Ground-Truth-Dataset](https://github.com/folklazy/CCTV-Ground-Truth-Dataset) | **Private; created; curation pending** | [CCTV_Dataset_Development](https://github.com/folklazy/CCTV_Dataset_Development), [CCTV-Human-Parsing-600-Dataset](https://github.com/folklazy/CCTV-Human-Parsing-600-Dataset) |
-| 5. Platform | [Human-Body-Extraction-Web-Platform](https://github.com/folklazy/Human-Body-Extraction-Web-Platform) | Planned; PRIVATE recommended | `folklazy/Body-Extraction-Human-WebApp` (private) |
+| 5. Platform | [Human-Body-Extraction-Web-Platform](https://github.com/folklazy/Human-Body-Extraction-Web-Platform) | **Private; created; curation pending** | `folklazy/Body-Extraction-Human-WebApp` (private) |
 | 6. Hub | [Human-Body-Extraction](https://github.com/folklazy/Human-Body-Extraction) | Documentation initialized | This repository |
 | 7. Final | [A-Comparative-Study-of-YOLO-Based-Instance-Segmentation](https://github.com/folklazy/A-Comparative-Study-of-YOLO-Based-Instance-Segmentation) | Documentation initialized; packaging / validation pending | Outputs selected from 1–5 after audit |
 
